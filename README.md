@@ -36,7 +36,7 @@ pip install scipy==1.0.0
 
 ## Please download official trained h5 model from Google Driver: 
 
-Please download the trained model from [here](https://drive.google.com/file/d/11pFtogeYDPC6iMi7w0ZQwaeYuui-TRgV/view?usp=sharing).
+Please download the trained model from [here](https://drive.google.com/drive/folders/11hjFacCgSb-ZilI8DwXi1YL9y7S8VTuz?usp=sharing).
 
 And place it in the "model_data" folder.
 
